@@ -11,7 +11,7 @@ public class Intro2ObjEx2 {
 		this.staticMethod();
 		Intro2ObjEx2.staticMethod(); // this is a static method and can be called using class.
 		
-		this.myMethod();
+//		this.myMethod();
 //		Intro2ObjEx2.myMethod(); this regular method cannot be called without instancing or this keyword.
 	}
 
